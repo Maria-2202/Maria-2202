@@ -3,6 +3,9 @@
 <!--
 **Maria-2202/Maria-2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
