@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://vk.ru/id791314884)">
+  <a href="https://vk.ru/id791314884">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a> 
   <br>
